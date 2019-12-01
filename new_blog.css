@@ -1,0 +1,59 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	background-image: url("theme3.jpg");
+	background-size: cover;
+	border-color: black;
+}
+.content{
+	padding: 10px;
+	background-color: white;
+	margin-right: 80px;
+	margin-left: 80px;
+	margin-top: 80px;
+	border-radius: 20px;
+	border: 2px solid black;
+}
+.name{
+	text-align: center;
+}
+.intro{
+	text-align: center;
+}
+.content2{
+	background-color: white;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 3px;
+	border: 2px solid black;
+	border-radius: 20px;
+	padding-bottom: 10px;
+}
+.person{
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+.inform{
+	float: right;
+	width: 70%;
+	text-align: center;
+	margin-right: 3px;
+}
+.clear{
+	clear: both;
+}
+.form{
+	text-align: center;
+	margin-right: 3px;
+	width: 70%;
+	padding-bottom:40px; 
+}
+.links{
+	text-align: center;
+}
+.copright{
+	text-align: right;
+	font-size: small;
+	color: grey;
+	margin-right: 30px;
+}
