@@ -1,0 +1,24 @@
+body{
+	background-image: url("image4.jpg");
+	background-size: cover;
+	font-family: 'Sulphur Point', sans-serif;
+}
+.content{
+	background-color: white;
+	margin: 80px;
+	padding:60px;
+	border-radius: 20px;
+}
+img{
+	width: 200px;
+	text-align: left;
+	border-radius: 10px;
+}
+.information{
+	float: right;
+	text-align: center;
+	width: 500px;
+}
+.clear{
+	clear: both;
+}
