@@ -2,23 +2,58 @@ body{
 	background-image: url("image4.jpg");
 	background-size: cover;
 	font-family: 'Sulphur Point', sans-serif;
+	background-repeat: no-repeat;
 }
 .content{
 	background-color: white;
-	margin: 80px;
-	padding:60px;
+	margin-top: 70px;
+	margin-left: 70px;
+	margin-right: 70px;
+	padding:10px;
 	border-radius: 20px;
 }
 img{
 	width: 200px;
 	text-align: left;
 	border-radius: 10px;
+	margin:0px;
 }
 .information{
 	float: right;
 	text-align: center;
-	width: 500px;
+	width: 600px;
 }
 .clear{
 	clear: both;
 }
+.content2{
+	background-color: white;
+	margin-top: 3px;
+	margin-right: 70px;
+	margin-left: 70px;
+	border-radius: 20px;
+	padding: 40px;
+}
+.image{
+	float: left;
+	width: 200px;
+	border-radius: 10px;
+	text-align: left;
+}
+.to{
+	float: left;
+	clear:both;
+}
+.image2{
+	height: 200px;
+	float: left;
+	clear: both;
+}
+#information2{
+	width: 700px;
+	text-align: center;
+	vertical-align: middle;
+	transform: translateY(50%);
+	transform: translateX(10%);
+}
+
